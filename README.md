@@ -1,4 +1,4 @@
-**Hi I’m Kristian**
+### Hi I’m Kristian
 
 Junior studying Computer Science at DePaul University 💻<br>
 Born and bred in Chicago 🌆🐻 <br>
