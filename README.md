@@ -1,9 +1,9 @@
-Hi I’m Kristian 
+**Hi I’m Kristian**
 
-I’m a third year computer science student at DePaul University. 
-Born and bred in Chicago 🌆🐻.
-I love soccer and football ⚽️🏈.
-I’m interested in cloud computing services such as Microsoft Azure 🌥️.
+Junior studying Computer Science at DePaul University 💻<br>
+Born and bred in Chicago 🌆🐻 <br>
+Soccer and football ⚽️🏈🖤 <br>
+I’m interested in cloud computing services such as Microsoft Azure 🌥️ 
 
 
 <!--
