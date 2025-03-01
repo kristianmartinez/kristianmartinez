@@ -1,7 +1,7 @@
 ### Hi I’m Kristian
 
 Junior studying Computer Science at DePaul University 💻<br>
-Born and bred in Chicago 🌆🐻 <br>
+Chicago 🌆🐻 <br>
 Soccer and football ⚽️🏈🖤 <br>
 I’m interested in cloud computing services such as Microsoft Azure 🌥️ 
 
