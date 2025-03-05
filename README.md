@@ -1,4 +1,4 @@
-### Hi I’m Kristian
+### Kristian Martinez 🥷🏼
 
 Junior studying Computer Science at DePaul University 💻<br>
 Chicago 🌆🐻 <br>
