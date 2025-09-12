@@ -1,6 +1,6 @@
 ### Kristian Martinez 🥷🏼
 
-Junior studying Computer Science at DePaul University 💻<br>
+Senior studying Computer Science at DePaul University 💻<br>
 Chicago 🌆🐻 <br>
 Soccer and football ⚽️🏈🖤 <br>
 I’m interested in cloud computing services such as Microsoft Azure 🌥️ 
