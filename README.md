@@ -1,8 +1,9 @@
 ### Kristian Martinez 🥷🏼
 
-Senior studying Computer Science at DePaul University 💻<br>
-Chicago 🌆🐻 <br>
-Soccer and football ⚽️🏈🖤 <br>
+Hi! I'm a senior studying Computer Science at DePaul University 💻<br>
+I was born and raised in Chicago 🌆🐻 <br>
+I have previous software engineering experience with internships at Nordstrom and Microsoft<br>
+I love soccer and football ⚽️🏈🖤 <br>
 I’m interested in cloud computing services such as Microsoft Azure 🌥️ 
 
 
