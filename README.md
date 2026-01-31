@@ -1,12 +1,5 @@
 ### Kristian Martinez 🥷🏼
 
-Hi! I'm a senior studying Computer Science at DePaul University 💻<br>
-I was born and raised in Chicago 🌆🐻 <br>
-I have previous software engineering experience with internships at Nordstrom and Microsoft<br>
-I'm the current Vice President of the Society of Hispanic Professional Engineers at DePaul University <br>
-I love soccer and football ⚽️🏈🖤 <br>
-I’m interested in cloud computing services such as Microsoft Azure 🌥️ 
-
 
 <!--
 **kristianmartinez/kristianmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
